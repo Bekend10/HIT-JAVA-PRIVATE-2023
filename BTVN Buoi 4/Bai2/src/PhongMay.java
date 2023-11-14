@@ -21,6 +21,9 @@ public class PhongMay {
 
     }
 
+    public PhongMay(String number, String lab, QuanLy quanLy, ArrayList<May> mays, int n) {
+    }
+
     public String getMaPhongMay() {
         return maPhongMay;
     }
