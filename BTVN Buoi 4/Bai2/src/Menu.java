@@ -12,7 +12,7 @@ public class Menu {
         mays.add(new May(4,"HP","Tệ"));
         mays.add(new May(5,"Acer","Tốt"));
         QuanLy quanLy= new QuanLy("01","Liên");
-        phongMay= new PhongMay("001","Lab",quanLy,mays,5);
+        phongMay= new PhongMay("001","Lab",quanLy,mays,10);
     }
 
     public static void main(String[] args) {
